@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSString* str1 = @"change 1";
+    
+    NSString* str2 = @"change 2";
 }
 
 
