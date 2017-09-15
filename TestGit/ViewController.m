@@ -21,6 +21,8 @@
     NSString* str1 = @"change 1";
     
     NSString* str2 = @"change 2";
+    
+    NSString* str3 = @"change 3";
 }
 
 
